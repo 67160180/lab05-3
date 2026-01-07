@@ -1,6 +1,5 @@
 # Week 5: JavaScript Fundamentals - Lab Summary
-## 📊📊 ปฏิบัติการที่สํ
-าเร็จ
+## 📊📊 ปฏิบัติการที่สําเร็จ
 ### Activity 1: Variables & Data Types ✅
 - ใช ้`const` และ `let` อย่างถูกต ้อง
 - Primitive types: number, string, boolean, null, undefined
@@ -67,3 +66,4 @@
 03-control-flow.js - Control flow and logic
 04-loops.js - Loops and array methods
 05-integration.js - Quiz application README.md - Summary (this file)
+
