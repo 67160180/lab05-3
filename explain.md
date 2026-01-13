@@ -5,9 +5,9 @@
 
 ---
 
-## 2.1 `01-variables.js` – Challenge: Create a Person Object
+## 2.1 `01-variables.js`
 
-### โค้ด
+### 6. Challenge: Create a Person Object
 
 ```js
 const student = {
